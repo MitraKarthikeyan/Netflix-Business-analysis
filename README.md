@@ -3,7 +3,7 @@ Link to the dataset: https://www.kaggle.com/ashishgup/netflix-rotten-tomatoes-me
 
 Tools used: Microsoft Excel, Microsoft SQL studio, Tableau
 
-DASHBOARD LINK: [Tableau Dashbard Link](https://public.tableau.com/views/Netflix_16572807430040/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+DASHBOARD LINK: [Tableau Dashbard Link](https://public.tableau.com/app/profile/mitra.k8201/viz/Netflix_16651468436210/Dashboard1)
 
 Questions Answered: 
 
